@@ -1,8 +1,7 @@
 > ### <p align="center"> ***TS DISCORD BOTS.*** </p> 
   ### <p align="center"> *Coming Soon.* </p> 
-<details>
+<details align="center">
 <summary>Rooter Commands</summary>
-
 <table>
   <thead>
     <th>Komut & Sistem</th>
@@ -12,20 +11,20 @@
   <tr>
   <td>Setup Sistemi</td>
   <td>
-<img src="https://cdn.discordapp.com/attachments/1225700973213782020/1230793141267992637/image.png?ex=66349c6f&is=6622276f&hm=1924a87b68135349fbc0a64699890af5f473cf43e20eb548c01764929acdb14a&" alt="Setup Image" style="max-width: 100%;">
+<img src=""alt="Setup Image" style="max-width: 100%;">
 </td>
 
 </tr>
   <tr>
   <td>Bot Ayar Sistemi</td>
   <td>
-<img src="https://cdn.discordapp.com/attachments/1225700973213782020/1230793749647589407/image.png?ex=66349d00&is=66222800&hm=78d5e592f9262f6ca771577656e845b0b63788014364b8b576558a728d188c2a&" alt="Kısayol Panel" style="max-width: 100%;">
+<img src="" alt="Kısayol Panel" style="max-width: 100%;">
 </td>
 </tr>
   <tr>
   <td>Koruma Sistemi</td>
   <td>
-<img src="https://cdn.discordapp.com/attachments/1225700973213782020/1230794207875305482/image.png?ex=66349d6e&is=6622286e&hm=181f3e78d35cb365353539fa240341812b143b480dda2a945e2035de78151608&" alt="Shield Image" style="max-width: 100%;">
+<img src="" alt="Shield Image" style="max-width: 100%;">
 </td>
 </tr>
   
