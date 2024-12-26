@@ -32,6 +32,7 @@
 </table>
 </details>
 
+#
 ### <p align="center"> 💎 *Özellikler* </p> 
 - 🚀 **Kolay Basit Kurulum**: Kullanımı kolay arayüzü sayesinde botu dakikalar içinde kurabilirsiniz.  
 - 🛠️ **+90 Komut**: Sunucunuzu daha işlevsel ve eğlenceli hale getiren 90'dan fazla komut.  
