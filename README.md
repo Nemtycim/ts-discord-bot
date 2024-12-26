@@ -9,25 +9,14 @@
   </thead>
 <tbody>
   <tr>
-  <td>Setup Sistemi</td>
-  <td>
-<img src=""alt="Setup Image" style="max-width: 100%;">
-</td>
-
+  <td>Setup Sistemi</td><td><img src=""alt="Setup Image" style="max-width: 100%;"></td>
 </tr>
-  <tr>
-  <td>Bot Ayar Sistemi</td>
-  <td>
-<img src="" alt="Kısayol Panel" style="max-width: 100%;">
-</td>
+<tr>
+<td>Bot Ayar Sistemi</td><td><img src="" alt="Kısayol Panel" style="max-width: 100%;"></td>
 </tr>
-  <tr>
-  <td>Koruma Sistemi</td>
-  <td>
-<img src="" alt="Shield Image" style="max-width: 100%;">
-</td>
+<tr>
+<td>Koruma Sistemi</td><td><img src="" alt="Shield Image" style="max-width: 100%;"></td>
 </tr>
-  
 </tbody>
 </table>
 </details>
