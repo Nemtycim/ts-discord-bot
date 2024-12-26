@@ -2,7 +2,7 @@
   ### <p align="center"> *Coming Soon.* </p> 
 <details align="center">
 <summary>Kurucu Komutları</summary>
-<table>
+<table align="center">
   <thead>
     <th>Komut & Sistem</th>
     <th>Resim</th>
