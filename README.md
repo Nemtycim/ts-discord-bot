@@ -1,7 +1,7 @@
 > ### <p align="center"> ***TS DISCORD BOTS.*** </p> 
   ### <p align="center"> *Coming Soon.* </p> 
 <details align="center">
-<summary>Rooter Commands</summary>
+<summary>Kurucu Komutları</summary>
 <table>
   <thead>
     <th>Komut & Sistem</th>
