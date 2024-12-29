@@ -14,7 +14,9 @@
 <tr>
 <td>Özel Oda Panel</td><td><img src="https://cdn.discordapp.com/attachments/1163892206520770700/1322888242583834694/image.png?ex=6772832f&is=677131af&hm=f478109b5741526ed5be74a91c74cf7c6d5ac4ae12ed97f45a6c2f2412727fd1&" alt="Kısayol Panel" style="max-width: 100%;"></td>
 </tr>
-
+<tr>
+<td>Rol Menu Panel</td><td><img src="https://cdn.discordapp.com/attachments/1163892206520770700/1322891110275612722/image.png?ex=677285da&is=6771345a&hm=f92234686755486963758b57abaaddf756464bb8b9abadac44acfb35ee5884ee&" alt="Kısayol Panel" style="max-width: 100%;"></td>
+</tr>
 </tbody>
 </table>
 </details>
