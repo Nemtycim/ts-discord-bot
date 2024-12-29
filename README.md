@@ -17,6 +17,9 @@
 <tr>
 <td>Rol Menu Panel</td><td><img src="https://cdn.discordapp.com/attachments/1163892206520770700/1322891110275612722/image.png?ex=677285da&is=6771345a&hm=f92234686755486963758b57abaaddf756464bb8b9abadac44acfb35ee5884ee&" alt="Kısayol Panel" style="max-width: 100%;"></td>
 </tr>
+<tr>
+<td>Gorev Menu Panel</td><td><img src="https://cdn.discordapp.com/attachments/1163892206520770700/1322899968322965524/image.png?ex=67728e1a&is=67713c9a&hm=cfb45512d5d18af80ce1a06c8002a93341956774fa3b9b6f9607d5eb24f7a3fe&" alt="Kısayol Panel" style="max-width: 100%;"></td>
+</tr>
 </tbody>
 </table>
 </details>
