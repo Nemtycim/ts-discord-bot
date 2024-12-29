@@ -1,7 +1,7 @@
 > ### <p align="center"> ***TS DISCORD BOTS.*** </p> 
   ### <p align="center"> *Coming Soon.* </p> 
 <details align="center">
-<summary>Kurucu Komutları</summary>
+<summary>Panel Komutları</summary>
 <table align="center">
   <thead>
     <th>Komut & Sistem</th>
@@ -9,14 +9,12 @@
   </thead>
 <tbody>
   <tr>
-  <td>Setup Sistemi</td><td><img src=""alt="Setup Image" style="max-width: 100%;"></td>
+  <td>Kullanıcı Panel</td><td><img src="https://cdn.discordapp.com/attachments/1163892206520770700/1322888066121338890/image.png?ex=67728305&is=67713185&hm=b7e922d97b250100bd1bd24f9690ae5eacb7e720d7777ea915660f1f517321c2&"alt="Setup Image" style="max-width: 100%;"></td>
 </tr>
 <tr>
-<td>Bot Ayar Sistemi</td><td><img src="" alt="Kısayol Panel" style="max-width: 100%;"></td>
+<td>Özel Oda Panel</td><td><img src="https://cdn.discordapp.com/attachments/1163892206520770700/1322888242583834694/image.png?ex=6772832f&is=677131af&hm=f478109b5741526ed5be74a91c74cf7c6d5ac4ae12ed97f45a6c2f2412727fd1&" alt="Kısayol Panel" style="max-width: 100%;"></td>
 </tr>
-<tr>
-<td>Koruma Sistemi</td><td><img src="" alt="Shield Image" style="max-width: 100%;"></td>
-</tr>
+
 </tbody>
 </table>
 </details>
