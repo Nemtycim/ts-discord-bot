@@ -1,5 +1,6 @@
 > ### <p align="center"> ***TS DISCORD BOTS.*** </p> 
   ### <p align="center"> *Coming Soon.* </p> 
+  
 <details align="center">
 <summary>Panel Komutları</summary>
 <table align="center">
@@ -20,6 +21,22 @@
 <tr>
 <td>Gorev Menu Panel</td><td><img src="https://cdn.discordapp.com/attachments/1163892206520770700/1322899968322965524/image.png?ex=67728e1a&is=67713c9a&hm=cfb45512d5d18af80ce1a06c8002a93341956774fa3b9b6f9607d5eb24f7a3fe&" alt="Kısayol Panel" style="max-width: 100%;"></td>
 </tr>
+</tbody>
+</table>
+</details>
+
+<details align="center">
+<summary>Developer Komutları</summary>
+<table align="center">
+  <thead>
+    <th>Komut & Sistem</th>
+    <th>Resim</th>
+  </thead>
+<tbody>
+  <tr>
+  <td>Setup</td><td><img src="https://cdn.discordapp.com/attachments/1163892206520770700/1323259265909133352/image.png?ex=6773dcb9&is=67728b39&hm=eb4bff5570f2a8cde92c6848b3ddbbe1438df4b63857a49c2464720a62c84a53&"alt="Setup Image" style="max-width: 100%;"></td>
+</tr>
+
 </tbody>
 </table>
 </details>
