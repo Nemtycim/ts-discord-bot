@@ -34,7 +34,7 @@
   </thead>
 <tbody>
   <tr>
-  <td>Setup</td><td><img src="/Nemtycim/ts-discord-bot/raw/main/images/setup.png"alt="Setup Image" style="max-width: 100%;"></td>
+  <td>Setup</td><td><img src="/Nemtycim/ts-discord-bot/images/setup.png"alt="Setup Image" style="max-width: 100%;"></td>
 </tr>
 
 </tbody>
