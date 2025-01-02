@@ -18,9 +18,6 @@
 <tr>
 <td>Rol Menu Panel</td><td><img src="images/rol_al.png" alt="Kısayol Panel" style="max-width: 100%;"></td>
 </tr>
-<tr>
-<td>Gorev Menu Panel</td><td><img src="images/gorev_kontrol" alt="Kısayol Panel" style="max-width: 100%;"></td>
-</tr>
 </tbody>
 </table>
 </details>
