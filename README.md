@@ -38,6 +38,21 @@
 </table>
 </details>
 
+<details align="center">
+<summary>Kayıt Komutları</summary>
+<table align="center">
+  <thead>
+    <th>Komut & Sistem</th>
+    <th>Resim</th>
+  </thead>
+<tbody>
+  <tr>
+  <td>Kayıt</td><td><img src="images/kayit_komut.png"alt="Setup Image" style="max-width: 100%;"></td>
+</tr>
+
+</tbody>
+</table>
+</details>
 #
 ### <p align="center"> 💎 *Özellikler* </p> 
 - 🚀 **Kolay Basit Kurulum**: Kullanımı kolay arayüzü sayesinde botu dakikalar içinde kurabilirsiniz.  
