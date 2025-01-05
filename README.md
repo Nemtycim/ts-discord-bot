@@ -53,6 +53,7 @@
 </tbody>
 </table>
 </details>
+
 #
 ### <p align="center"> 💎 *Özellikler* </p> 
 - 🚀 **Kolay Basit Kurulum**: Kullanımı kolay arayüzü sayesinde botu dakikalar içinde kurabilirsiniz.  
