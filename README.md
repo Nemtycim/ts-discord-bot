@@ -50,7 +50,7 @@
   <td>Kayıt</td><td><img src="images/kayit_komut.png"alt="Setup Image" style="max-width: 100%;"></td>
 </tr>
  <tr>
-  <td>Kayıt</td><td><img src="images/isim.png"alt="Setup Image" style="max-width: 100%;"></td>
+  <td>İsim</td><td><img src="images/isim.png"alt="Setup Image" style="max-width: 100%;"></td>
 </tr>
 </tbody>
 </table>
